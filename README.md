@@ -18,6 +18,6 @@ Gli ordini comprendono l’articolo e la quantità acquistata con relativo total
 All’interno del database dovranno essere conservate anche le generalità di ogni cliente identificati dall’indirizzo e-mail, inoltre, sarà possibile memorizzare più numeri di telefono e diversi tipi di pagamento.
 
 Realizzato da:
-Gianfranco Terrazzano
-Ilaria Scuotto
-Giuseppe Orlando
+Gianfranco Terrazzano,
+Ilaria Scuotto,
+Giuseppe Orlando.
